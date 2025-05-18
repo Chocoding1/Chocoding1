@@ -12,7 +12,7 @@
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></a>
 
-## Problem Solving
+# Problem Solving
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jsj012100)](https://solved.ac/jsj012100)
 
 <!--
